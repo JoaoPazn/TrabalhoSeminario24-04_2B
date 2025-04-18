@@ -1,0 +1,105 @@
+body{
+    height: auto;
+    width: auto;
+    background-image: url(../img/TiphGround.png); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.Container{
+
+    display: inline-block;
+    margin-top: 30px;
+    height: auto;
+    width: auto;
+    
+}
+
+.backgroundColor{
+    background-color: palegreen;
+    cursor:pointer;
+    border:none;
+    width:480px;
+    height:270px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+.backgroundColor p{
+
+font-size: 50px;
+font-family: cursive;
+
+}
+
+.backgroundImage{
+    background:url(../img/chesedGround.png);
+    cursor:pointer;
+    border:none;
+    width:480px;
+    height:270px;
+    
+}
+
+.backgroundImage p{
+
+color: white;
+font-size: 50px;
+font-family: cursive;
+
+}
+
+/* aqui */
+.backgroundSize{
+    background:url(../img/HokGround.png);
+    cursor:pointer;
+    border:none;
+    width:480px;
+    height:270px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    color: rgb(0, 0, 0);
+}
+    
+.backgroundSize p{
+
+font-size: 50px;
+font-family: cursive;
+
+}
+
+.backgroundRepeat{
+    background:url(../img/BinahGround.png);
+    cursor:pointer;
+    border:none;
+    width:480px;
+    height:270px;
+    
+}
+
+.backgroundRepeat p{
+
+color: white;
+font-size: 50px;
+font-family: cursive;
+
+}
+
+.backgroundPosition{
+    background:url(../img/GebGround.png);
+    cursor:pointer;
+    border:none;
+    width:480px;
+    height:270px;
+    
+}
+
+.backgroundPosition p{
+
+color: white;
+font-size: 50px;
+font-family: cursive;
+
+}
